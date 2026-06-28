@@ -12,8 +12,9 @@
       link: https://blog.zhilu.site
       avatar: https://www.zhilu.site/api/avatar.png
       descr: 纸鹿至麓不知路，支炉制露不止漉
-      siteshot: https://imgbed.081531.xyz/file/telegram/image.png
       feeds: https://blog.zhilu.site/atom.xml
+      friendslink: https://blog.zhilu.site/link
+      siteshot: https://imgbed.081531.xyz/file/telegram/image.png
     - name: iMaeGoo’s Blog
       link: https://www.imaegoo.com
       avatar: https://cdn.jsdelivr.net/npm/imaegoo/avatar.jpg
