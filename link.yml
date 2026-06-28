@@ -1,0 +1,9 @@
+- class_name: 友情链接
+  class_desc: 我的小伙伴们
+  link_list:
+    - name: 清羽飞扬
+      link: https://blog.liushen.fun
+      avatar: https://blog.liushen.fun/info/avatar.ico
+      descr: 柳影曳曳，清酒孤灯，扬笔撒墨，心境如霜
+      siteshot: https://blog.liushen.fun/info/siteshot.jpg
+      feeds: https://blog.liushen.fun/atom.xml
